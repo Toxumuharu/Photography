@@ -1,0 +1,14 @@
+---
+title: Sakura girls
+subtitle: Portrait
+layout: default
+modal-id: 20200406
+date: 2020-04-06
+img: girlsCameForSakura_osakaCastle_portrait.jpg
+thumbnail: girlsCameForSakura_osakaCastle_portrait.jpg
+alt: image-alt
+project-date: April 2020
+client: Start Bootstrap
+category: Portrait
+description: Nikon D800 + 50/1.4
+---

@@ -1,0 +1,14 @@
+---
+title: Arasaki rock
+subtitle: Nature
+layout: default
+modal-id: 20210306
+date: 2021-03-06
+img: arasakiRock_miura_nature.jpg
+thumbnail: arasakiRock_miura_nature.jpg
+alt: image-alt
+project-date: March 2021
+client: Start Bootstrap
+category: Nature
+description: Nikon Z6II + 17-35/2.8
+---

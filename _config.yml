@@ -1,0 +1,25 @@
+-url: https://toxumuharu.github.io
+-baseurl: /Photography
+
+# Site settings
+title: Kinako # The reason why I named this title is there is a late named "kinako-tonyu-late(きなこ豆乳ラテ)" in DOUTOR caffee shop, where I started use this site:)
+email: tomoharu.kawata@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Tomoharu photography Portfolio with nature, portrait, night view.
+
+# Team names, titles and social links
+people:
+- name: Tomoharu Kawata
+  pic: 1
+  position: Photographer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,14 @@
+---
+title: DJ MOAT
+subtitle: Portrait
+layout: default
+modal-id: 2018100601
+date: 2018-10-06
+img: djMoat_wombShibuya_portrait.jpg
+thumbnail: djMoat_wombShibuya_portrait.jpg
+alt: image-alt
+project-date: October 2018
+client: Start Bootstrap
+category: Portrait
+description: Nikon D750 + 50/1.8
+---

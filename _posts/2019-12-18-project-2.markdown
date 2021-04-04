@@ -1,0 +1,14 @@
+---
+title: Eri and Jinmyeong
+subtitle: Portrait
+layout: default
+modal-id: 2019121802
+date: 2019-12-18
+img: EriJinmyeong2_nakanoshima_portrait.jpg
+thumbnail: EriJinmyeong2_nakanoshima_portrait.jpg
+alt: image-alt
+project-date: December 2019
+client: Start Bootstrap
+category: Portrait
+description: Nikon D750 + 70-200/2.8
+---

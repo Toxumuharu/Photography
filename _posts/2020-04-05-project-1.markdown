@@ -1,0 +1,14 @@
+---
+title: A kid playing at park
+subtitle: Portrait
+layout: default
+modal-id: 20200405
+date: 2020-04-05
+img: aKidPlaying_osaka_portrait.jpg
+thumbnail: aKidPlaying_osaka_portrait.jpg
+alt: image-alt
+project-date: April 2020
+client: Start Bootstrap
+category: Portrait
+description: Nikon D800 + 24-70/2.8
+---

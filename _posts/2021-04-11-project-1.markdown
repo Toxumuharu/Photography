@@ -1,0 +1,14 @@
+---
+title: Miura Milky way
+subtitle: Nature
+layout: default
+modal-id: 20210411
+date: 2021-04-11
+img: milkywayAtMiura_kanagawa_nature.jpg
+thumbnail: milkywayAtMiura_kanagawa_nature.jpg
+alt: image-alt
+project-date: April 2021
+client: Start Bootstrap
+category: Nature
+description: Nikon Z6II + 17-35/2.8
+---

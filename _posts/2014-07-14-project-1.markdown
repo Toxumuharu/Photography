@@ -1,0 +1,13 @@
+---
+title: Hitokura dam
+subtitle: Nature
+layout: default
+modal-id: 20200714
+date: 2020-07-14
+img: hitokuradamu_osaka_nature.jpg
+thumbnail: hitokuradamu_osaka_nature.jpg
+alt: image-alt
+project-date: July 2020
+category: Nature
+description: Nikon Z6 + 17-35/2.8
+---

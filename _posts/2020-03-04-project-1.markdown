@@ -1,0 +1,14 @@
+---
+title: A couple visited Osaka but
+subtitle: Portrait
+layout: default
+modal-id: 20200304
+date: 2020-03-04
+img: aCoupleVisitOsakaButUsjClosed_usj_portrait.jpg
+thumbnail: aCoupleVisitOsakaButUsjClosed_usj_portrait.jpg
+alt: image-alt
+project-date: March 2020
+client: Start Bootstrap
+category: Portrait
+description: They had visited Osaka. Their plan was enjoying USJ but it has been closed. I shot them and gave it Kanagawa, Nikon D750 + 70-200/2.8
+---

@@ -1,0 +1,14 @@
+---
+title: Eitai bridge
+subtitle: Night View
+layout: default
+modal-id: 20210326
+date: 2021-03-26
+img: eitaibridge_tokyo_nightView.jpg
+thumbnail: eitaibridge_tokyo_nightView.jpg
+alt: image-alt
+project-date: May 2021
+client: Start Bootstrap
+category: NightView
+description: Nikon Z6II + 17-35/2.8
+---
