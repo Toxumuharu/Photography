@@ -22,8 +22,8 @@ title: Kinako # The reason why I named this title is there is a late named "kina
 email: tomoharu.kawata@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tomoharu photography Portfolio with nature, portrait, night view.
-baseurl: "/Photography" # the subpath of your site, e.g. /blog
-url: "https://toxumuharu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://toxumuharu.github.io/Photography/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HaruShoots
 github_username:  Toxumuharu
 
