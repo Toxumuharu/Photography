@@ -1,11 +1,11 @@
 ---
-title: Sydney Daring harbour
-subtitle: Night View
+title: A kid playing at park
+subtitle: Portrait
 layout: default
 modal-id: 7
 date: 2020-03-04
-img: sydneyDaringHarbour_sydney_nightView.jpg
-thumbnail: sydneyDaringHarbour_sydney_nightView.jpg
+img: aKidPlaying_osaka_portrait.jpg
+thumbnail: aKidPlaying_osaka_portrait.jpg
 alt: image-alt
 project-date: March 2020
 client: Start Bootstrap

@@ -1,11 +1,11 @@
 ---
-title: Sydney Daring harbour
-subtitle: Night View
+title: Eri and Jinmyeong
+subtitle: Portrait
 layout: default
 modal-id: 7
 date: 2020-03-04
-img: sydneyDaringHarbour_sydney_nightView.jpg
-thumbnail: sydneyDaringHarbour_sydney_nightView.jpg
+img: EriJinmyeong3_nakanoshima_portrait.jpg
+thumbnail: EriJinmyeong3_nakanoshima_portrait.jpg
 alt: image-alt
 project-date: March 2020
 client: Start Bootstrap
