@@ -2,7 +2,7 @@
 title: Nunobiki falls
 subtitle: Nature
 layout: default
-modal-id: 7
+modal-id: 2454
 date: 2020-03-04
 img: nunobikifall_kobe_nature.jpg
 thumbnail: nunobikifall_kobe_nature.jpg

@@ -2,7 +2,7 @@
 title: Eri and Jinmyeong
 subtitle: Portrait
 layout: default
-modal-id: 7
+modal-id: 725
 date: 2020-03-04
 img: EriJinmyeong_nakanoshima_portrait.jpg
 thumbnail: EriJinmyeong_nakanoshima_portrait.jpg

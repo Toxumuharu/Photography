@@ -2,7 +2,7 @@
 title: Miura Milky way
 subtitle: Nature
 layout: default
-modal-id: 7
+modal-id: 73
 date: 2020-03-04
 img: milkywayAtMiura_kanagawa_nature.jpg
 thumbnail: milkywayAtMiura_kanagawa_nature.jpg
