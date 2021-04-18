@@ -10,5 +10,5 @@ alt: image-alt
 project-date: March 2020
 client: Start Bootstrap
 category: Portrait
-description: Nikon D800 + 24-70/2.8
+description: Nikon D800 + 24-70/2.8f
 ---
