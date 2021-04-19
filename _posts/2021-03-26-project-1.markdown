@@ -2,13 +2,13 @@
 title: Eitai bridge
 subtitle: Night View
 layout: default
-modal-id: 20181006
-date: 2018-10-06
+modal-id: 20210326
+date: 2021-03-26
 img: eitaibridge_tokyo_nightView.jpg
 thumbnail: eitaibridge_tokyo_nightView.jpg
 alt: image-alt
-project-date: March 2020
+project-date: May 2020
 client: Start Bootstrap
-category: Portrait
-description: Nikon D800 + 24-70/2.8
+category: NightView
+description: Nikon Z6II + 17-35/2.8
 ---

@@ -2,13 +2,13 @@
 title: Festival kid:)
 subtitle: Portrait
 layout: default
-modal-id: 75324
-date: 2020-03-04
+modal-id: 20191022
+date: 2019-10-22
 img: localFestivalkid_Himeji_portrait.jpg
 thumbnail: localFestivalkid_Himeji_portrait.jpg
 alt: image-alt
-project-date: March 2020
+project-date: October 2019
 client: Start Bootstrap
 category: Portrait
-description: Nikon D800 + 24-70/2.8
+description: Nikon D750 + 70-200/2.8
 ---

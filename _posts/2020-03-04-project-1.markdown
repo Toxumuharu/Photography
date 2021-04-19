@@ -10,5 +10,5 @@ alt: image-alt
 project-date: March 2020
 client: Start Bootstrap
 category: Portrait
-description: They had visited Osaka. Their plan was enjoying USJ but it has been closed. I shot them and gave it Kanagawa, Nikon Z6II + 17-35/2.8
+description: They had visited Osaka. Their plan was enjoying USJ but it has been closed. I shot them and gave it Kanagawa, Nikon D750 + 70-200/2.8
 ---

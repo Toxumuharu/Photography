@@ -2,13 +2,13 @@
 title: Clubbing girls
 subtitle: Portrait
 layout: default
-modal-id: 71111
-date: 2020-03-04
+modal-id: 2018100602
+date: 2018-10-06
 img: wombCutomers_shibuya_portrait.jpg
 thumbnail: wombCutomers_shibuya_portrait.jpg
 alt: image-alt
-project-date: March 2020
+project-date: October 2018
 client: Start Bootstrap
 category: Portrait
-description: Nikon D800 + 24-70/2.8
+description: Nikon D750 + 50/1.8
 ---

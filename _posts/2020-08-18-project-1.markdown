@@ -2,13 +2,13 @@
 title: Nunobiki falls
 subtitle: Nature
 layout: default
-modal-id: 2454
-date: 2020-03-04
+modal-id: 20200818
+date: 2020-08-18
 img: nunobikifall_kobe_nature.jpg
 thumbnail: nunobikifall_kobe_nature.jpg
 alt: image-alt
-project-date: March 2020
+project-date: August 2020
 client: Start Bootstrap
-category: Portrait
-description: Nikon D800 + 24-70/2.8
+category: Nature
+description: Nikon Z6 + 17-35/2.8
 ---

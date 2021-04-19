@@ -2,13 +2,13 @@
 title: Mom at house
 subtitle: Portrait
 layout: default
-modal-id: 72345
-date: 2020-03-04
+modal-id: 20200815
+date: 2020-08-15
 img: aWomanAtHouse_himeji_portrait.jpg
 thumbnail: aWomanAtHouse_himeji_portrait.jpg
 alt: image-alt
-project-date: March 2020
+project-date: August 2020
 client: Start Bootstrap
 category: Portrait
-description: Nikon D800 + 24-70/2.8
+description: Nikon Z6 + 55/1.2
 ---

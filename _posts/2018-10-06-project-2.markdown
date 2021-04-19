@@ -2,13 +2,13 @@
 title: DJ MOAT
 subtitle: Portrait
 layout: default
-modal-id: 7111111
-date: 2020-03-04
+modal-id: 2018100601
+date: 2018-10-06
 img: djMoat_wombShibuya_portrait.jpg
 thumbnail: djMoat_wombShibuya_portrait.jpg
 alt: image-alt
-project-date: March 2020
+project-date: October 2018
 client: Start Bootstrap
 category: Portrait
-description: Nikon D800 + 24-70/2.8f
+description: Nikon D750 + 50/1.8
 ---
