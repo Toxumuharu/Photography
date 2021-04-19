@@ -8,7 +8,6 @@ img: hitokuradamu_osaka_nature.jpg
 thumbnail: hitokuradamu_osaka_nature.jpg
 alt: image-alt
 project-date: July 2020
-client: Start Bootstrap
 category: Nature
 description: Nikon Z6 + 17-35/2.8
 ---
