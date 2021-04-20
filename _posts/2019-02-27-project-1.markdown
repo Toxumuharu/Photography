@@ -1,0 +1,14 @@
+---
+title: Yuya in Guam
+subtitle: Portrait
+layout: default
+modal-id: 20190227
+date: 2019-02-27
+img: friendInGuam_guam_portrait.jpg
+thumbnail: friendInGuam_guam_portrait.jpg
+alt: image-alt
+project-date: Feburary 2019
+client: Start Bootstrap
+category: Nature
+description: My best friend in Guam. Nikon D3100 + 28-75/2.8
+---

@@ -1,0 +1,14 @@
+---
+title: A girl enjoys USJ
+subtitle: Portrait
+layout: default
+modal-id: 20200121
+date: 2020-01-21
+img: aGirlVisitedUSJ_usj_portrait.jpg
+thumbnail: aGirlVisitedUSJ_usj_portrait.jpg
+alt: image-alt
+project-date: January 2020
+client: Start Bootstrap
+category: Nature
+description: Nikon D800 + 30/1.4
+---

@@ -1,0 +1,14 @@
+---
+title: Sadgun
+subtitle: Portrait
+layout: default
+modal-id: 20191026
+date: 2019-10-26
+img: officeMate_Kobe_portrait.jpg
+thumbnail: officeMate_Kobe_portrait.jpg
+alt: image-alt
+project-date: October 2019
+client: Start Bootstrap
+category: Nature
+description: Nikon D750 + 70-200/2.8
+---

@@ -1,0 +1,14 @@
+---
+title: Swing girl
+subtitle: Portrait
+layout: default
+modal-id: 20200905
+date: 2020-09-05
+img: swingGirl_kyoto_portrait.jpg
+thumbnail: swingGirl_kyoto_portrait.jpg
+alt: image-alt
+project-date: September 2020
+client: Start Bootstrap
+category: Nature
+description: Nikon Z6 + 70-200/2.8
+---

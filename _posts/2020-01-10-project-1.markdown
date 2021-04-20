@@ -1,0 +1,14 @@
+---
+title: A couple enjoys USJ
+subtitle: Portrait
+layout: default
+modal-id: 20200110
+date: 2020-01-10
+img: aCoupleEnjoyesUSJ_usj_portrait.jpg
+thumbnail: aCoupleEnjoyesUSJ_usj_portrait.jpg
+alt: image-alt
+project-date: January 2020
+client: Start Bootstrap
+category: Nature
+description: Nikon D750 + 50/1.4
+---

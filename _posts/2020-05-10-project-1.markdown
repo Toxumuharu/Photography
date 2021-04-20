@@ -1,0 +1,14 @@
+---
+title: Wedding at Nijo-castle
+subtitle: Portrait
+layout: default
+modal-id: 20200510
+date: 2020-05-10
+img: wedding_kyoto_portrait.jpg
+thumbnail: wedding_kyoto_portrait.jpg
+alt: image-alt
+project-date: May 2020
+client: Start Bootstrap
+category: Nature
+description: Nikon D800 + 24-70/2.8
+---
