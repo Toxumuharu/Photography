@@ -9,6 +9,6 @@ thumbnail: Yuki_cebu_portrait.jpg
 alt: image-alt
 project-date: October 2018
 client: Start Bootstrap
-category: Nature
+category: Portrait
 description: Nikon D3100 + 50/1.8
 ---

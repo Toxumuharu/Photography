@@ -9,6 +9,6 @@ thumbnail: wedding_kyoto_portrait.jpg
 alt: image-alt
 project-date: May 2020
 client: Start Bootstrap
-category: Nature
+category: Portrait
 description: Nikon D800 + 24-70/2.8
 ---

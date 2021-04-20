@@ -9,6 +9,6 @@ thumbnail: aCoupleEnjoyesUSJ_usj_portrait.jpg
 alt: image-alt
 project-date: January 2020
 client: Start Bootstrap
-category: Nature
+category: Portrait
 description: Nikon D750 + 50/1.4
 ---

@@ -9,6 +9,6 @@ thumbnail: swingGirl_kyoto_portrait.jpg
 alt: image-alt
 project-date: September 2020
 client: Start Bootstrap
-category: Nature
+category: Portrait
 description: Nikon Z6 + 70-200/2.8
 ---
